@@ -1,0 +1,8 @@
+# Phien ban da dung khi chay ngay 08/11/2026 tren Google Colab (GPU T4)
+torch==2.14.1
+transformers==5.22.1
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy
+py_vncorenlp
+underthesea
